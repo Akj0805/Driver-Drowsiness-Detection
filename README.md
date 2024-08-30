@@ -1,0 +1,1 @@
+This project implements a deep learning model to detect driver drowsiness by analyzing facial features from images. It leverages a dataset containing various states of driver alertness, such as closed eyes and yawning, to train the model. The project aims to enhance road safety by providing an automated system to alert drivers when signs of drowsiness are detected.
